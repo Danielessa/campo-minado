@@ -6,6 +6,7 @@ rng = np.random.default_rng()
 '''
 Elementos para melhorar no futuro:
 
+
 - Arranjar uma maneira mais inteligente e simples de mostrar a quantidade de minas em cada lugar
 - Fazer o código funcionar mesmo quando o tiver 1  linha ou 1 coluna
 '''
